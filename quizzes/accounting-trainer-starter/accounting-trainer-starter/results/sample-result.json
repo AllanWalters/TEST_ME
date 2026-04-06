@@ -1,0 +1,13 @@
+{
+  "quiz_id": "accounting-quiz-01",
+  "topic": "general accounting basics",
+  "completed_at": "2026-04-06T00:00:00Z",
+  "score_auto": 2,
+  "total_auto_scored": 2,
+  "answers": {
+    "q1": "Assets = Liabilities + Owner's Equity",
+    "q2": "A debit is the left side of an account entry.",
+    "q3": "Asset",
+    "q4": "Remembering normal balances"
+  }
+}
