@@ -1,6 +1,14 @@
 # TEST_ME
-place to track my training progress
 
-This is the TEST_ME repo
+A place to track my training progress.
 
+## Purpose
+This repository stores:
+- Quiz HTML files
+- Quiz result JSON files
+- Study guides
+- Deep-dive topic pages
+- Training notes and progress logs
+
+## Current test data
 Animal = rabbit
